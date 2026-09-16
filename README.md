@@ -9,8 +9,7 @@ Atualmente trabalho com o ecossistema TOTVS RM, atuando com:
 
 - TOTVS RM Educacional
 - Saúde e Segurança Ocupacional (SST)
-- TOTVS Aprovação
-- TOTVS Atendimento
+- TOTVS Aprovação e Atendimento
 - SQL e análise de dados
 - Relatórios e consultas
 - Suporte e sustentação de sistemas
