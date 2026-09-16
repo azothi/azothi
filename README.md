@@ -1,4 +1,4 @@
-# Olá, eu sou Inan Henrique 👋
+# Olá, eu sou Inan 'Azothi' Henrique 👋
 
 ### Analista de Sistemas | TOTVS RM | SQL | Dados
 
